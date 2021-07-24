@@ -9,6 +9,8 @@ using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
 
+// you could make this source much cleaner but im lazy af. Do it by yourself
+// flyshx#0468
 namespace WindowsDefenderControl
 {
     public partial class flyshx : Form
